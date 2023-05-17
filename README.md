@@ -22,15 +22,18 @@ SQL
 > - 
 > - 
 ```
+```
 Tableau
 > - 
 > - 
 > - 
-
+```
+```
 Python
 > - 
 > - 
 > - 
+```
 
 ## Procedure
 
