@@ -5,7 +5,7 @@
 
 ```
 Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o, 
-Kevin Lopez and Drew Barnhart
+               Kevin Lopez and Drew Barnhart
 ```
 
 ## Purpose
