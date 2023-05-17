@@ -16,12 +16,12 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 ## Objectives
 
 ### The objectives for this process were divided into several subsections: 
-
+```
 SQL
 > - 
 > - 
 > - 
-
+```
 Tableau
 > - 
 > - 
