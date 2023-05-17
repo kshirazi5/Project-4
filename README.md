@@ -4,7 +4,8 @@
 ### Assisting users with making rationale and profitable stock selections to increase value of portfolio
 
 ```
-Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o, Kevin Lopez and Drew Barnhart
+Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o, 
+Kevin Lopez and Drew Barnhart
 ```
 
 ## Purpose
