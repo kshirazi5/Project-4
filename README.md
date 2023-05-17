@@ -17,20 +17,22 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 
 ### The objectives for this process were divided into several subsections: 
 ```
-# SQL
+SQL
+
+
 
 ```
 ```
 Tableau
-> - 
-> - 
-> - 
+
+
+
 ```
 ```
 Python
-> - 
-> - 
-> - 
+
+
+
 ```
 
 ## Procedure
