@@ -16,14 +16,11 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 ## Objectives
 
 ### The objectives for this process were divided into several subsections: 
-```
-SQL
+
+#### SQL
 
 
-
-```
-```
-Tableau
+#### Tableau
 
 Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow Jones graph over a 10 year perid of time 
 
@@ -34,13 +31,12 @@ The next bar graph illustrated the annual averages and continues the comparison 
 <img width="660" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2b4f8f28-4f8b-4ff6-80f2-177e9b229e9b">
 
 
-```
-```
-Python
+
+#### Python
 
 
 
-```
+
 
 ## Procedure
 
