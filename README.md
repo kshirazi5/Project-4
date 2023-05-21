@@ -13,27 +13,32 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 > 
 > - Source: S&P Dow Jones Indices LLC, Dow Jones Industrial Average [DJIA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DJIA, May 16, 2023.
 
+> - Second Source (For additional years): https://www.investing.com/indices/us-30-historical-data
+
 ## Objectives
 
 ### The objectives for this process were divided into several subsections: 
-```
-SQL
+
+#### SQL
+
+
+#### Tableau
+
+Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow Jones graph over a 10 year perid of time 
+
+<img width="544" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/b85eceea-fd49-4bbb-8a1b-2ffbc69f7dff">
+
+The next bar graph illustrated the annual averages and continues the comparison between the S&P500 and Dow Jones 
+
+<img width="660" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2b4f8f28-4f8b-4ff6-80f2-177e9b229e9b">
 
 
 
-```
-```
-Tableau
+#### Python
 
 
 
-```
-```
-Python
 
-
-
-```
 
 ## Procedure
 
