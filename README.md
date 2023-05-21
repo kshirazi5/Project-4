@@ -13,6 +13,8 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 > 
 > - Source: S&P Dow Jones Indices LLC, Dow Jones Industrial Average [DJIA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DJIA, May 16, 2023.
 
+> - Second Source (For additional years): https://www.investing.com/indices/us-30-historical-data
+
 ## Objectives
 
 ### The objectives for this process were divided into several subsections: 
