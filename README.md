@@ -92,6 +92,8 @@ The next bar graph illustrated the annual averages and continues the comparison 
 
 
 ## Analysis
+<img width="1301" alt="Fed Funds Rate Graph" src="https://github.com/kshirazi5/Project-4/assets/116853144/8dc5e4c3-6382-476b-aadf-02771afe21c1">
+<img width="1307" alt="S P500 chart" src="https://github.com/kshirazi5/Project-4/assets/116853144/f04d565c-4f39-43ee-8f99-9c1ff2ec519b">
 
 
 ## Limitations
