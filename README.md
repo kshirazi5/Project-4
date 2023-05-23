@@ -32,6 +32,9 @@ The next bar graph illustrated the annual averages and continues the comparison 
 
 <img width="660" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2b4f8f28-4f8b-4ff6-80f2-177e9b229e9b">
 
+Comparative analysis of the Dow Jones vs several commotities (including: Oil, Gold, and soybeans)
+
+<img width="628" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2ec200fd-981f-40a7-b220-cf2ce8b4d049">
 
 
 #### Python
