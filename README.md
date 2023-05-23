@@ -28,9 +28,15 @@ Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow J
 
 <img width="544" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/b85eceea-fd49-4bbb-8a1b-2ffbc69f7dff">
 
+```
+```
+
 The next bar graph illustrated the annual averages and continues the comparison between the S&P500 and Dow Jones 
 
 <img width="660" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2b4f8f28-4f8b-4ff6-80f2-177e9b229e9b">
+
+```
+```
 
 Comparative analysis of the Dow Jones vs several commotities (including: Oil, Gold, and soybeans)
 
