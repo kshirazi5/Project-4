@@ -31,6 +31,13 @@ Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow J
 ```
 ```
 
+Historical Graph displaying value of dow jones since 1979 (When digital records begin to be recorded)
+<img width="794" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/3e47b0a5-8f1b-4841-86a6-0c074c6e89c2">
+
+```
+```
+
+
 The next bar graph illustrated the annual averages and continues the comparison between the S&P500 and Dow Jones 
 
 <img width="660" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2b4f8f28-4f8b-4ff6-80f2-177e9b229e9b">
