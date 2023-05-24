@@ -21,7 +21,7 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 
 #### SQL
 ![Most profitable month](https://github.com/kshirazi5/Project-4/assets/116853144/5c760648-abd8-4a48-bbfa-e8f44074a905)
-October 2022 had the highest growth rate between 2013-2022.
+October 2022 had the most profitability between 2013-2022.
 
 ![interest rate 2017-2019 growth percentage](https://github.com/kshirazi5/Project-4/assets/116853144/6c0636a2-d17e-421a-8aea-471f9553cc62)
 
