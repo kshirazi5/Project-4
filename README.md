@@ -60,8 +60,8 @@ The next bar graph illustrated the annual averages and continues the comparison 
 Comparative analysis of the Dow Jones vs several commotities (including: Oil, Gold, and soybeans)
 
 #### Python
+![Stock_prediction](https://github.com/kshirazi5/Project-4/assets/117046550/7f78766e-3211-4c58-8e32-a480350e0768)
 
-http://localhost:8888/view/Project%204/stock_graph.html
 
 ## Analysis
 <img width="1301" alt="Fed Funds Rate Graph" src="https://github.com/kshirazi5/Project-4/assets/116853144/da587251-3da4-4bb8-8f05-cb9c46009c4b">
