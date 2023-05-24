@@ -30,7 +30,7 @@ October 2022 had the most profitability between 2013-2022.
 
 ![President (2016-2020)](https://github.com/kshirazi5/Project-4/assets/116853144/84575b23-ec99-43be-a996-3ecd1b8ddce6)
 ![President 2020-2023](https://github.com/kshirazi5/Project-4/assets/116853144/3585e380-7bd2-468f-8203-3ed9703a2b20)
-The 2016-2020 presidential cycle had the highest S&P500 growth rate. This is most likely due to lower interest rates during this period.
+The 2016-2020 presidential cycle had the highest S&P500 growth rate. 
 
 #### Tableau
 
