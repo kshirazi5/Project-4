@@ -27,6 +27,7 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 
 <img width="544" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/b85eceea-fd49-4bbb-8a1b-2ffbc69f7dff">
 Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow Jones graph over a 10 year perid of time 
+
 ```
 ```
 
