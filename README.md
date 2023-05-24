@@ -20,6 +20,11 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 ### The objectives for this process were divided into several subsections: 
 
 #### SQL
+![Most profitable month](https://github.com/kshirazi5/Project-4/assets/116853144/5c760648-abd8-4a48-bbfa-e8f44074a905)
+![interest rate 2017-2019 growth percentage](https://github.com/kshirazi5/Project-4/assets/116853144/6c0636a2-d17e-421a-8aea-471f9553cc62)
+![interest rate 2020-2022](https://github.com/kshirazi5/Project-4/assets/116853144/bc79eb5d-c37d-4102-9179-f00a3867c38f)
+![President (2016-2020)](https://github.com/kshirazi5/Project-4/assets/116853144/84575b23-ec99-43be-a996-3ecd1b8ddce6)
+![President 2020-2023](https://github.com/kshirazi5/Project-4/assets/116853144/3585e380-7bd2-468f-8203-3ed9703a2b20)
 
 
 #### Tableau
