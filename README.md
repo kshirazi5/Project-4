@@ -31,6 +31,14 @@ Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow J
 ```
 ```
 
+Excerpt from section of code that pulled CSV files, created dataframes, dropped and specified column types, and combined dataframes to organize data for comparative analysis in Tableau
+
+<img width="509" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/11c83d0b-779d-437e-b2c1-8ba4d1154323">
+
+
+```
+```
+
 Historical Graph displaying value of dow jones since 1979 (When digital records begin to be recorded)
 <img width="794" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/3e47b0a5-8f1b-4841-86a6-0c074c6e89c2">
 
