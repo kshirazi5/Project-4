@@ -63,59 +63,6 @@ Comparative analysis of the Dow Jones vs several commotities (including: Oil, Go
 
 
 
-
-
-## Procedure
-
-### Step 1:
-
-> - 
-> - 
-> - 
-
-### Step 2: 
-
-> - 
-> - 
-> - 
-
-### Step 3: 
-
-> - 
-> - 
-> - 
-
-### Step 4: 
-
-> - 
-> - 
-> - 
-
-### Step 5: 
-
-> - 
-> - 
-> - 
-
-### Step 6:
-
-> - 
-> - 
-> - 
-
-### Step 7:
-
-> - 
-> - 
-> - 
-
-### Step 8: 
-
-> - 
-> - 
-> - 
-
-
 ## Analysis
 <img width="1301" alt="Fed Funds Rate Graph" src="https://github.com/kshirazi5/Project-4/assets/116853144/da587251-3da4-4bb8-8f05-cb9c46009c4b">
 <img width="1307" alt="S P500 chart" src="https://github.com/kshirazi5/Project-4/assets/116853144/4f9e5c7f-df85-46b7-aa22-973a85cbb737">
@@ -128,8 +75,11 @@ https://fred.stlouisfed.org/series/SP500
 
 ## Limitations
 
+- Initial data set from Fred was limiteed to a 10 year incrememnt (2013-2023). Forr analyzing recent/short term economic patterns this isnt an issue, but for predicting future trends and understanding long term economic cycles, a larger data set of increased years would be preferable
+- In Tableau we were able to integrate multiple CSV's and create comparative analysis, however for the Machine Learning, a larger set would be preferable
 
-## Further Development/ Next Steps
+
+## Summary
 
 
 
@@ -140,8 +90,10 @@ https://fred.stlouisfed.org/series/SP500
 > - Python
 > - SQLite
 > - HTML
+> - Jupyter Notebook
 
 
 ### Functions used: 
-> -
+> - Pandas
+> - SkLearn
 
