@@ -8,6 +8,8 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
                Kevin Lopez and Drew Barnhart
 ```
 
+## Tableau Link: https://public.tableau.com/views/Project-4_16844646032120/BarGraph?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Purpose
 > The purpose of this project is to create a predictive model that can assist users in analyzing financial data in real-time. The predictive model will be able to provide users with financial information such as stock prices and other relevant financial data. The predictive model will also be able to answer questions related to financial news, trends, and market updates. It will be designed to analyze financial data and provide users with insights and recommendations based on their financial goals and preferences. 
 > 
