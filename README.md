@@ -24,39 +24,34 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
 
 #### Tableau
 
-Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow Jones graph over a 10 year perid of time 
 
 <img width="544" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/b85eceea-fd49-4bbb-8a1b-2ffbc69f7dff">
-
+Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow Jones graph over a 10 year perid of time 
 ```
 ```
 
-Excerpt from section of code that pulled CSV files, created dataframes, dropped and specified column types, and combined dataframes to organize data for comparative analysis in Tableau
 
 <img width="509" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/11c83d0b-779d-437e-b2c1-8ba4d1154323">
-
+Excerpt from section of code that pulled CSV files, created dataframes, dropped and specified column types, and combined dataframes to organize data for comparative analysis in Tableau
 
 ```
 ```
 
-Historical Graph displaying value of dow jones since 1979 (When digital records begin to be recorded)
+
 <img width="794" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/3e47b0a5-8f1b-4841-86a6-0c074c6e89c2">
+Historical Graph displaying value of dow jones since 1979 (When digital records begin to be recorded)
 
 ```
 ```
-
-
-The next bar graph illustrated the annual averages and continues the comparison between the S&P500 and Dow Jones 
 
 <img width="660" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2b4f8f28-4f8b-4ff6-80f2-177e9b229e9b">
+The next bar graph illustrated the annual averages and continues the comparison between the S&P500 and Dow Jones 
 
 ```
 ```
-
-Comparative analysis of the Dow Jones vs several commotities (including: Oil, Gold, and soybeans)
 
 <img width="628" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2ec200fd-981f-40a7-b220-cf2ce8b4d049">
-
+Comparative analysis of the Dow Jones vs several commotities (including: Oil, Gold, and soybeans)
 
 #### Python
 
