@@ -8,7 +8,7 @@ Collaborators: Nathan Payne, Kamran Shirazi, Alex De la o,
                Kevin Lopez and Drew Barnhart
 ```
 
-### Tableau Link: https://public.tableau.com/views/Project-4_16844646032120/BarGraph?:language=en-US&:display_count=n&:origin=viz_share_link
+### Tableau Link: https://public.tableau.com/views/Project-4_16844646032120/HistoricalAvg?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Purpose
 > The purpose of this project is to create a predictive model that can assist users in analyzing financial data in real-time. The predictive model will be able to provide users with financial information such as stock prices and other relevant financial data. The predictive model will also be able to answer questions related to financial news, trends, and market updates. It will be designed to analyze financial data and provide users with insights and recommendations based on their financial goals and preferences. 
@@ -37,7 +37,8 @@ The 2016-2020 presidential cycle had the highest S&P500 growth rate.
 #### Tableau
 
 
-<img width="544" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/b85eceea-fd49-4bbb-8a1b-2ffbc69f7dff">
+<img width="1259" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/77630a47-cee2-46a3-8f70-594dbb34d52a">
+
 
 Initial Tableau analysis using an area graph to compare the S&P 500 to the Dow Jones graph over a 10 year perid of time 
 
@@ -60,14 +61,16 @@ Historical Graph displaying value of dow jones since 1979 (When digital records 
 ```
 ```
 
-<img width="660" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2b4f8f28-4f8b-4ff6-80f2-177e9b229e9b">
+<img width="631" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/bb82dbc8-7809-4cc3-9f15-5a58d241bbaf">
 
-The next bar graph illustrated the annual averages and continues the comparison between the S&P500 and Dow Jones 
+
+The  bar graph illustrated the annual averages and continues the comparison between the S&P500 and Dow Jones 
 
 ```
 ```
 
-<img width="628" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/2ec200fd-981f-40a7-b220-cf2ce8b4d049">
+<img width="644" alt="image" src="https://github.com/kshirazi5/Project-4/assets/116226080/12c698f2-8f6b-4d29-9c0f-36756df1957c">
+
 
 Comparative analysis of the Dow Jones vs several commotities (including: Oil, Gold, and soybeans)
 
