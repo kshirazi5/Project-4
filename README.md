@@ -72,7 +72,8 @@ The next bar graph illustrated the annual averages and continues the comparison 
 Comparative analysis of the Dow Jones vs several commotities (including: Oil, Gold, and soybeans)
 
 #### Python
-![Stock_prediction](https://github.com/kshirazi5/Project-4/assets/117046550/7f78766e-3211-4c58-8e32-a480350e0768)
+![stock_comparison](https://github.com/kshirazi5/Project-4/assets/117046550/a08f31c4-9013-446b-8ab0-dd59920b21b1)
+
 
 
 ## Analysis
